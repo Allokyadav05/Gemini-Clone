@@ -10,10 +10,10 @@ Google Gemini Integration: Utilizes the capabilities of the Google Gemini model 
 
 # How to Use
 
-1. Clone the Repository
+# 1. Clone the Repository
 https://github.com/Allokyadav05/Gemini-Clone.git
 
-2.Install the required dependencies :
+# 2.Install the required dependencies :
 npm i
-3.Run the server
+# 3.Run the server
 npm run dev
